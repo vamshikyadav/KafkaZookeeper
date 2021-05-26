@@ -16,4 +16,4 @@ kafka: wurstmeister/kafka
 ZooKeeper: zookeeper:latest
 
 # Config: 
-KAFKA_ADVERTISED_HOST_NAME : <loadbalancerendpoint>
+KAFKA_ADVERTISED_HOST_NAME : loadbalancer endpoint
